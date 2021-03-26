@@ -88,7 +88,7 @@
     o.o = function (e, n) {
         return Object.prototype.hasOwnProperty.call(e, n)
     },
-    o.p = "https://cdn.jsdelivr.net/gh/jesmhub/",
+    o.p = "https://cdn.jsdelivr.net/gh/jesmhub/jscss/",
     o.oe = function (e) {
         throw console.error(e),
         e

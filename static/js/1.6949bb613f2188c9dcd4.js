@@ -254,7 +254,7 @@ webpackJsonp([1], {
         t.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAABICAMAAACz1EcFAAAAhFBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8g2+bRAAAAK3RSTlMABAER+5bPoAqqDvfGvq09CMul5tbAubSbkY2GemxmWlQV0YuAdnJiXxcqAG1rOQAAAQJJREFUSMet1tmuglAMhWHUA6iIeJzned7v/34aY1xc/TQpvf5CYG/arshQrVZkqSIJISmq3T4L78qKSvcXPpVXuN3Xhczowgjd/edCTO4mN6YT2ga5h80dD+A2conV0ftd5f7JXYxuLdfr1uDOchNyq5Jr21xO7iQ3BddcltwA3EJuRi4uuYbN9cnNba6RynXqcEO5IbmOXFqH68vNm+ByuRhce4RO1ZNbkBvILclFT/UbKH4iv6P/q/kc+Wacd82S/0eWKUjsBX8Xcl/zpPDPHp5mPB/9E5dnOG8F/55hybvQv115X3MCcGYKTimce7q+JMXZjGXmyI+QSB0Zl1Mz1wt3e3hzOS9bfQAAAABJRU5ErkJggg=="
     },
     e9tV: function (t, s, e) {
-        t.exports = "https://cdn.jsdelivr.net/gh/jesmhub/" + "static/img/nyhead.afa3da3.png"
+        t.exports = "https://cdn.jsdelivr.net/gh/jesmhub/jscss/" + "static/img/nyhead.afa3da3.png"
     }
 });
 //# sourceMappingURL=1.6949bb613f2188c9dcd4.js.map
