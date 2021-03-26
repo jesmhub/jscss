@@ -1,0 +1,2 @@
+webpackJsonp([4],{"2V2d":function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var l={components:{list:n("pjeT").a}},s={render:function(){var e=this.$createElement;return(this._self._c||e)("list")},staticRenderFns:[]},r=n("VU/8")(l,s,!1,null,null,null);t.default=r.exports}});
+//# sourceMappingURL=4.9c18bdcbf0c15b24a0f1.js.map
